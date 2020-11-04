@@ -43,14 +43,14 @@ h3 {
 }
 
 a {
-    font-family: 'Baloo 2', cursive ;
+    font-family: 'Baloo 2', cursive;
     text-decoration: none;
     font-weight: 700;
     font-size: 16px;
     color: #025962;
 }
 a:hover {
-    font-family: 'Baloo 2', cursive ;
+    font-family: 'Baloo 2', cursive;
     text-decoration: underline;
     text-decoration-color: salmon;
     text-decoration-style: wavy;
@@ -71,7 +71,7 @@ a:hover {
   background-color: white;
   padding: 30px 30px;
   border-radius: 15px;
-  margin: 1000 px auto;
+  margin: 10 px auto;
   box-shadow: 0 10px 30px rgba(0,0,0,.1);
 }
 
